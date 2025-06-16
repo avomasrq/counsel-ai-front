@@ -1,0 +1,1308 @@
+{
+  "universities": [
+    {
+      "id": "stanford",
+      "name": "Stanford University",
+      "location": {
+        "city": "Stanford",
+        "state": "CA",
+        "country": "United States",
+        "coordinates": {
+          "latitude": 37.4275,
+          "longitude": -122.1697
+        }
+      },
+      "stats": {
+        "acceptanceRate": 4.3,
+        "enrollment": {
+          "undergraduate": 6996,
+          "graduate": 9371,
+          "total": 16367
+        },
+        "studentFacultyRatio": 4.0,
+        "graduationRate": 95.0,
+        "retentionRate": 98.0
+      },
+      "academics": {
+        "popularMajors": [
+          "Computer Science",
+          "Engineering",
+          "Biology",
+          "Economics",
+          "Psychology"
+        ],
+        "departments": [
+          "School of Engineering",
+          "School of Humanities and Sciences",
+          "School of Earth, Energy & Environmental Sciences",
+          "Graduate School of Business",
+          "School of Law",
+          "School of Medicine"
+        ],
+        "researchCenters": 20,
+        "libraryCollections": 9.5
+      },
+      "admissions": {
+        "sat": {
+          "middle50": {
+            "math": [720, 800],
+            "evidenceBasedReading": [700, 770],
+            "total": [1420, 1570]
+          },
+          "average": 1500
+        },
+        "act": {
+          "middle50": [32, 35],
+          "average": 33
+        },
+        "gpa": {
+          "average": 3.95,
+          "weighted": 4.18
+        },
+        "applicationDeadlines": {
+          "earlyDecision": "November 1",
+          "regularDecision": "January 5",
+          "transfer": "March 15"
+        },
+        "requirements": [
+          "Common Application or Coalition Application",
+          "Official Transcripts",
+          "SAT/ACT Scores",
+          "Two Teacher Recommendations",
+          "Counselor Recommendation",
+          "Application Fee or Fee Waiver"
+        ]
+      },
+      "costs": {
+        "tuition": {
+          "inState": 56169,
+          "outOfState": 56169,
+          "international": 56169
+        },
+        "roomAndBoard": 17619,
+        "booksAndSupplies": 1250,
+        "personalExpenses": 2400,
+        "total": {
+          "inState": 77438,
+          "outOfState": 77438,
+          "international": 77438
+        },
+        "financialAid": {
+          "averageAid": 52000,
+          "studentsReceivingAid": 63,
+          "meritScholarships": true
+        }
+      },
+      "campus": {
+        "size": 8180,
+        "setting": "suburban",
+        "housing": {
+          "onCampus": true,
+          "guaranteedHousing": true,
+          "dormTypes": [
+            "Residential Colleges",
+            "Theme Houses",
+            "Greek Housing"
+          ]
+        },
+        "facilities": [
+          "Research Labs",
+          "Sports Complex",
+          "Performing Arts Center",
+          "Museums",
+          "Libraries"
+        ]
+      },
+      "studentLife": {
+        "clubs": 625,
+        "sports": {
+          "varsity": 36,
+          "club": 32,
+          "intramural": 20
+        },
+        "greekLife": {
+          "fraternities": 16,
+          "sororities": 14,
+          "percentage": 25
+        },
+        "diversity": {
+          "international": 23,
+          "domesticMinority": 42,
+          "firstGeneration": 18
+        }
+      },
+      "rankings": {
+        "usNews": 3,
+        "qsWorld": 2,
+        "timesHigher": 4,
+        "forbes": 2
+      },
+      "images": {
+        "campus": "https://amgenscholars.com/wp-content/uploads/2014/10/photo-stanford.jpg",
+        "logo": "https://identity.stanford.edu/wp-content/uploads/sites/3/2020/07/block-s-right.png",
+        "gallery": [
+          "https://placehold.co/400x300",
+          "https://placehold.co/400x300",
+          "https://placehold.co/400x300"
+        ]
+      },
+      "contact": {
+        "website": "https://www.stanford.edu",
+        "phone": "(650) 723-2300",
+        "email": "undergrad.admissions@stanford.edu",
+        "address": "450 Serra Mall, Stanford, CA 94305"
+      },
+      "socialMedia": {
+        "twitter": "@Stanford",
+        "facebook": "stanford",
+        "instagram": "stanford",
+        "linkedin": "stanford-university"
+      }
+    },
+    {
+      "id": "mit",
+      "name": "Massachusetts Institute of Technology",
+      "location": {
+        "city": "Cambridge",
+        "state": "MA",
+        "country": "United States",
+        "coordinates": {
+          "latitude": 42.3601,
+          "longitude": -71.0942
+        }
+      },
+      "stats": {
+        "acceptanceRate": 7.3,
+        "enrollment": {
+          "undergraduate": 4631,
+          "graduate": 6812,
+          "total": 11443
+        },
+        "studentFacultyRatio": 3.0,
+        "graduationRate": 94.0,
+        "retentionRate": 99.0
+      },
+      "academics": {
+        "popularMajors": [
+          "Computer Science",
+          "Mechanical Engineering",
+          "Electrical Engineering",
+          "Physics",
+          "Mathematics"
+        ],
+        "departments": [
+          "School of Engineering",
+          "School of Science",
+          "School of Architecture and Planning",
+          "Sloan School of Management",
+          "School of Humanities, Arts, and Social Sciences"
+        ],
+        "researchCenters": 25,
+        "libraryCollections": 5.0
+      },
+      "admissions": {
+        "sat": {
+          "middle50": {
+            "math": [780, 800],
+            "evidenceBasedReading": [730, 780],
+            "total": [1510, 1580]
+          },
+          "average": 1530
+        },
+        "act": {
+          "middle50": [34, 36],
+          "average": 35
+        },
+        "gpa": {
+          "average": 3.96,
+          "weighted": 4.17
+        },
+        "applicationDeadlines": {
+          "earlyAction": "November 1",
+          "regularDecision": "January 5",
+          "transfer": "March 15"
+        },
+        "requirements": [
+          "Common Application or Coalition Application",
+          "Official Transcripts",
+          "SAT/ACT Scores",
+          "Two Teacher Recommendations",
+          "Counselor Recommendation",
+          "Application Fee or Fee Waiver"
+        ]
+      },
+      "costs": {
+        "tuition": {
+          "inState": 53790,
+          "outOfState": 53790,
+          "international": 53790
+        },
+        "roomAndBoard": 16650,
+        "booksAndSupplies": 1000,
+        "personalExpenses": 2200,
+        "total": {
+          "inState": 73640,
+          "outOfState": 73640,
+          "international": 73640
+        },
+        "financialAid": {
+          "averageAid": 48000,
+          "studentsReceivingAid": 58,
+          "meritScholarships": true
+        }
+      },
+      "campus": {
+        "size": 168,
+        "setting": "urban",
+        "housing": {
+          "onCampus": true,
+          "guaranteedHousing": true,
+          "dormTypes": [
+            "Undergraduate Residences",
+            "Graduate Residences",
+            "Independent Living Groups"
+          ]
+        },
+        "facilities": [
+          "Research Labs",
+          "Innovation Hub",
+          "Sports Complex",
+          "Museums",
+          "Libraries"
+        ]
+      },
+      "studentLife": {
+        "clubs": 450,
+        "sports": {
+          "varsity": 33,
+          "club": 35,
+          "intramural": 15
+        },
+        "greekLife": {
+          "fraternities": 27,
+          "sororities": 5,
+          "percentage": 45
+        },
+        "diversity": {
+          "international": 29,
+          "domesticMinority": 38,
+          "firstGeneration": 15
+        }
+      },
+      "rankings": {
+        "usNews": 2,
+        "qsWorld": 1,
+        "timesHigher": 2,
+        "forbes": 4
+      },
+      "images": {
+        "campus": "https://www.shawmut.com/wp-content/uploads/2024/10/Massachusetts-Institute-of-Technology-Great-Dome-Building-10-and-Barker-Library__4-060693_00_DOME_N189_lrg.jpg",
+        "logo": "https://download.logo.wine/logo/Massachusetts_Institute_of_Technology/Massachusetts_Institute_of_Technology-Logo.wine.png",
+        "gallery": [
+          "https://placehold.co/400x300",
+          "https://placehold.co/400x300",
+          "https://placehold.co/400x300"
+        ]
+      },
+      "contact": {
+        "website": "https://www.mit.edu",
+        "phone": "(617) 253-1000",
+        "email": "admissions@mit.edu",
+        "address": "77 Massachusetts Avenue, Cambridge, MA 02139"
+      },
+      "socialMedia": {
+        "twitter": "@MIT",
+        "facebook": "MIT",
+        "instagram": "mit",
+        "linkedin": "massachusetts-institute-of-technology"
+      }
+    },
+    {
+      "id": "harvard",
+      "name": "Harvard University",
+      "location": {
+        "city": "Cambridge",
+        "state": "MA",
+        "country": "USA",
+        "coordinates": {
+          "latitude": 42.3770,
+          "longitude": -71.1167
+        }
+      },
+      "stats": {
+        "acceptanceRate": 4.6,
+        "enrollment": {
+          "total": 21648,
+          "undergraduate": 7315,
+          "graduate": 14333
+        },
+        "studentFacultyRatio": 7,
+        "graduationRate": 98,
+        "retentionRate": 98
+      },
+      "academics": {
+        "popularMajors": [
+          "Computer Science",
+          "Economics",
+          "Biology",
+          "Government",
+          "Psychology"
+        ],
+        "departments": [
+          "Faculty of Arts and Sciences",
+          "Harvard Medical School",
+          "Harvard Law School",
+          "Harvard Business School",
+          "Harvard Kennedy School"
+        ],
+        "researchCenters": [
+          "Harvard-Smithsonian Center for Astrophysics",
+          "Wyss Institute for Biologically Inspired Engineering",
+          "Harvard Stem Cell Institute"
+        ],
+        "libraryCollections": 20.4
+      },
+      "admissions": {
+        "sat": {
+          "middle50": {
+            "math": [740, 800],
+            "evidenceBasedReading": [720, 780],
+            "total": [1460, 1580]
+          },
+          "average": 1520
+        },
+        "act": {
+          "middle50": [33, 36],
+          "average": 34
+        },
+        "gpa": {
+          "average": 4.18,
+          "weighted": 4.64
+        },
+        "applicationDeadlines": {
+          "earlyAction": "November 1",
+          "regularDecision": "January 1",
+          "transfer": "March 1"
+        },
+        "requirements": [
+          "Common Application",
+          "Harvard Supplement",
+          "SAT/ACT Scores",
+          "Two SAT Subject Tests",
+          "Letters of Recommendation",
+          "Application Fee"
+        ]
+      },
+      "costs": {
+        "tuition": {
+          "inState": 54768,
+          "outOfState": 54768,
+          "international": 54768
+        },
+        "roomAndBoard": 19502,
+        "booksAndSupplies": 1000,
+        "personalExpenses": 2800,
+        "total": {
+          "inState": 79070,
+          "outOfState": 79070,
+          "international": 79070
+        },
+        "financialAid": {
+          "averageAid": 55000,
+          "studentsReceivingAid": 55,
+          "meritScholarships": false
+        }
+      },
+      "campus": {
+        "size": 5458,
+        "setting": "urban",
+        "housing": {
+          "onCampus": true,
+          "guaranteedHousing": true,
+          "dormTypes": [
+            "Residential Houses",
+            "Freshman Dorms",
+            "Graduate Housing"
+          ]
+        },
+        "facilities": [
+          "Harvard Art Museums",
+          "Harvard Stadium",
+          "Science Center",
+          "Harvard Library System",
+          "Research Laboratories"
+        ]
+      },
+      "studentLife": {
+        "clubs": 450,
+        "sports": {
+          "varsity": 42,
+          "club": 35,
+          "intramural": 30
+        },
+        "greekLife": {
+          "fraternities": 12,
+          "sororities": 10,
+          "percentage": 20
+        },
+        "diversity": {
+          "international": 25,
+          "domesticMinority": 45,
+          "firstGeneration": 20
+        }
+      },
+      "rankings": {
+        "usNews": 3,
+        "qsWorld": 5,
+        "timesHigher": 2,
+        "forbes": 1
+      },
+      "images": {
+        "campus": "https://www.harvard.edu/wp-content/uploads/2022/06/101221_overviews_2492-crop-scaled.jpg",
+        "logo": "https://assets.turbologo.com/blog/en/2024/06/27075930/harvard-logo-evolution.png",
+        "gallery": [
+          "https://placehold.co/400x300",
+          "https://placehold.co/400x300",
+          "https://placehold.co/400x300"
+        ]
+      },
+      "contact": {
+        "website": "https://www.harvard.edu",
+        "phone": "(617) 495-1000",
+        "email": "college@fas.harvard.edu",
+        "address": "Massachusetts Hall, Cambridge, MA 02138"
+      },
+      "socialMedia": {
+        "twitter": "https://twitter.com/Harvard",
+        "facebook": "https://facebook.com/Harvard",
+        "instagram": "https://instagram.com/harvard",
+        "linkedin": "https://linkedin.com/school/harvard-university"
+      }
+    },
+    {
+      "id": "berkeley",
+      "name": "University of California, Berkeley",
+      "location": {
+        "city": "Berkeley",
+        "state": "CA",
+        "country": "USA",
+        "coordinates": {
+          "latitude": 37.8719,
+          "longitude": -122.2585
+        }
+      },
+      "stats": {
+        "acceptanceRate": 16.8,
+        "enrollment": {
+          "total": 42347,
+          "undergraduate": 31574,
+          "graduate": 11173
+        },
+        "studentFacultyRatio": 20,
+        "graduationRate": 93,
+        "retentionRate": 97
+      },
+      "academics": {
+        "popularMajors": [
+          "Computer Science",
+          "Engineering",
+          "Business",
+          "Biology",
+          "Political Science"
+        ],
+        "departments": [
+          "College of Engineering",
+          "College of Letters and Science",
+          "Haas School of Business",
+          "College of Chemistry",
+          "College of Environmental Design"
+        ],
+        "researchCenters": [
+          "Space Sciences Laboratory",
+          "Mathematical Sciences Research Institute",
+          "Energy Biosciences Institute"
+        ],
+        "libraryCollections": 13
+      },
+      "admissions": {
+        "sat": {
+          "middle50": {
+            "math": [680, 790],
+            "evidenceBasedReading": [650, 750],
+            "total": [1330, 1540]
+          },
+          "average": 1435
+        },
+        "act": {
+          "middle50": [29, 35],
+          "average": 32
+        },
+        "gpa": {
+          "average": 3.89,
+          "weighted": 4.25
+        },
+        "applicationDeadlines": {
+          "regularDecision": "November 30",
+          "transfer": "November 30"
+        },
+        "requirements": [
+          "UC Application",
+          "SAT/ACT Scores",
+          "Personal Insight Questions",
+          "Letters of Recommendation",
+          "Application Fee"
+        ]
+      },
+      "costs": {
+        "tuition": {
+          "inState": 14254,
+          "outOfState": 44007,
+          "international": 44007
+        },
+        "roomAndBoard": 19502,
+        "booksAndSupplies": 1000,
+        "personalExpenses": 2800,
+        "total": {
+          "inState": 37556,
+          "outOfState": 67309,
+          "international": 67309
+        },
+        "financialAid": {
+          "averageAid": 22000,
+          "studentsReceivingAid": 65,
+          "meritScholarships": true
+        }
+      },
+      "campus": {
+        "size": 1232,
+        "setting": "urban",
+        "housing": {
+          "onCampus": true,
+          "guaranteedHousing": false,
+          "dormTypes": [
+            "Residence Halls",
+            "Apartments",
+            "Theme Programs"
+          ]
+        },
+        "facilities": [
+          "Memorial Stadium",
+          "Hearst Greek Theatre",
+          "University Library",
+          "Research Laboratories",
+          "Student Union"
+        ]
+      },
+      "studentLife": {
+        "clubs": 1000,
+        "sports": {
+          "varsity": 30,
+          "club": 40,
+          "intramural": 25
+        },
+        "greekLife": {
+          "fraternities": 45,
+          "sororities": 35,
+          "percentage": 15
+        },
+        "diversity": {
+          "international": 15,
+          "domesticMinority": 65,
+          "firstGeneration": 25
+        }
+      },
+      "rankings": {
+        "usNews": 22,
+        "qsWorld": 27,
+        "timesHigher": 8,
+        "forbes": 2
+      },
+      "images": {
+        "campus": "https://www.sasaki.com/wp-content/uploads/2022/03/DD_SASAKI_BERKELEY_V2-Evans_2021_07_30-Update-1800x1013.jpg",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/University_of_California%2C_Berkeley_logo.svg/1280px-University_of_California%2C_Berkeley_logo.svg.png",
+        "gallery": [
+          "https://placehold.co/400x300",
+          "https://placehold.co/400x300",
+          "https://placehold.co/400x300"
+        ]
+      },
+      "contact": {
+        "website": "https://www.berkeley.edu",
+        "phone": "(510) 642-6000",
+        "email": "admissions@berkeley.edu",
+        "address": "110 Sproul Hall, Berkeley, CA 94720"
+      },
+      "socialMedia": {
+        "twitter": "https://twitter.com/UCBerkeley",
+        "facebook": "https://facebook.com/UCBerkeley",
+        "instagram": "https://instagram.com/ucberkeley",
+        "linkedin": "https://linkedin.com/school/uc-berkeley"
+      }
+    },
+    {
+      "id": "georgiatech",
+      "name": "Georgia Institute of Technology",
+      "location": {
+        "city": "Atlanta",
+        "state": "GA",
+        "country": "USA",
+        "coordinates": {
+          "latitude": 33.7756,
+          "longitude": -84.3963
+        }
+      },
+      "stats": {
+        "acceptanceRate": 21.3,
+        "enrollment": {
+          "total": 39556,
+          "undergraduate": 16761,
+          "graduate": 23195
+        },
+        "studentFacultyRatio": 19,
+        "graduationRate": 88,
+        "retentionRate": 97
+      },
+      "academics": {
+        "popularMajors": [
+          "Computer Science",
+          "Mechanical Engineering",
+          "Industrial Engineering",
+          "Electrical Engineering",
+          "Business"
+        ],
+        "departments": [
+          "College of Engineering",
+          "College of Computing",
+          "College of Sciences",
+          "College of Design",
+          "Scheller College of Business"
+        ],
+        "researchCenters": [
+          "Georgia Tech Research Institute",
+          "Institute for Robotics and Intelligent Machines",
+          "Institute for Materials"
+        ],
+        "libraryCollections": 3.5
+      },
+      "admissions": {
+        "sat": {
+          "middle50": {
+            "math": [670, 770],
+            "evidenceBasedReading": [630, 730],
+            "total": [1300, 1500]
+          },
+          "average": 1400
+        },
+        "act": {
+          "middle50": [28, 34],
+          "average": 31
+        },
+        "gpa": {
+          "average": 3.8,
+          "weighted": 4.1
+        },
+        "applicationDeadlines": {
+          "earlyAction": "October 15",
+          "regularDecision": "January 4",
+          "transfer": "March 1"
+        },
+        "requirements": [
+          "Common Application",
+          "Georgia Tech Supplement",
+          "SAT/ACT Scores",
+          "Letters of Recommendation",
+          "Application Fee"
+        ]
+      },
+      "costs": {
+        "tuition": {
+          "inState": 10758,
+          "outOfState": 31470,
+          "international": 31470
+        },
+        "roomAndBoard": 12482,
+        "booksAndSupplies": 800,
+        "personalExpenses": 2000,
+        "total": {
+          "inState": 26040,
+          "outOfState": 46752,
+          "international": 46752
+        },
+        "financialAid": {
+          "averageAid": 15000,
+          "studentsReceivingAid": 70,
+          "meritScholarships": true
+        }
+      },
+      "campus": {
+        "size": 400,
+        "setting": "urban",
+        "housing": {
+          "onCampus": true,
+          "guaranteedHousing": true,
+          "dormTypes": [
+            "Freshman Experience",
+            "Living Learning Communities",
+            "Graduate Housing"
+          ]
+        },
+        "facilities": [
+          "Bobby Dodd Stadium",
+          "Campus Recreation Center",
+          "Student Center",
+          "Research Laboratories",
+          "Technology Square"
+        ]
+      },
+      "studentLife": {
+        "clubs": 400,
+        "sports": {
+          "varsity": 17,
+          "club": 40,
+          "intramural": 20
+        },
+        "greekLife": {
+          "fraternities": 35,
+          "sororities": 25,
+          "percentage": 30
+        },
+        "diversity": {
+          "international": 12,
+          "domesticMinority": 40,
+          "firstGeneration": 15
+        }
+      },
+      "rankings": {
+        "usNews": 44,
+        "qsWorld": 88,
+        "timesHigher": 38,
+        "forbes": 45
+      },
+      "images": {
+        "campus": "https://www.gatech.edu/sites/default/files/2022-07/visit-tech.png",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSTw97pZClRWhDEdNO3zw1sU1wW_Le3WPkug&s",
+        "gallery": [
+          "https://placehold.co/400x300",
+          "https://placehold.co/400x300",
+          "https://placehold.co/400x300"
+        ]
+      },
+      "contact": {
+        "website": "https://www.gatech.edu",
+        "phone": "(404) 894-2000",
+        "email": "admission@gatech.edu",
+        "address": "225 North Avenue, Atlanta, GA 30332"
+      },
+      "socialMedia": {
+        "twitter": "https://twitter.com/GeorgiaTech",
+        "facebook": "https://facebook.com/georgiatech",
+        "instagram": "https://instagram.com/georgiatech",
+        "linkedin": "https://linkedin.com/school/georgia-institute-of-technology"
+      }
+    },
+    {
+      "id": "oxford",
+      "name": "University of Oxford",
+      "location": {
+        "city": "Oxford",
+        "state": "Oxfordshire",
+        "country": "United Kingdom",
+        "coordinates": {
+          "latitude": 51.7520,
+          "longitude": -1.2577
+        }
+      },
+      "stats": {
+        "acceptanceRate": 17.5,
+        "enrollment": {
+          "total": 24300,
+          "undergraduate": 11955,
+          "graduate": 12345
+        },
+        "studentFacultyRatio": 11,
+        "graduationRate": 98,
+        "retentionRate": 99
+      },
+      "academics": {
+        "popularMajors": [
+          "Philosophy, Politics, and Economics",
+          "Medicine",
+          "Law",
+          "Computer Science",
+          "Mathematics"
+        ],
+        "departments": [
+          "Humanities Division",
+          "Medical Sciences Division",
+          "Mathematical, Physical and Life Sciences Division",
+          "Social Sciences Division"
+        ],
+        "researchCenters": [
+          "Oxford Internet Institute",
+          "Oxford Martin School",
+          "Big Data Institute"
+        ],
+        "libraryCollections": 13
+      },
+      "admissions": {
+        "sat": {
+          "middle50": {
+            "math": [700, 800],
+            "evidenceBasedReading": [700, 800],
+            "total": [1400, 1600]
+          },
+          "average": 1500
+        },
+        "act": {
+          "middle50": [32, 36],
+          "average": 34
+        },
+        "gpa": {
+          "average": 3.9,
+          "weighted": 4.3
+        },
+        "applicationDeadlines": {
+          "undergraduate": "October 15",
+          "graduate": "Varies by program"
+        },
+        "requirements": [
+          "UCAS Application",
+          "Personal Statement",
+          "Academic References",
+          "Admission Tests",
+          "Interview"
+        ]
+      },
+      "costs": {
+        "tuition": {
+          "uk": 9250,
+          "international": 37510,
+          "graduate": 28560
+        },
+        "roomAndBoard": 15000,
+        "booksAndSupplies": 1000,
+        "personalExpenses": 12000,
+        "total": {
+          "uk": 35250,
+          "international": 63510,
+          "graduate": 54560
+        },
+        "financialAid": {
+          "averageAid": 25000,
+          "studentsReceivingAid": 60,
+          "meritScholarships": true
+        }
+      },
+      "campus": {
+        "size": 190,
+        "setting": "historic",
+        "housing": {
+          "onCampus": true,
+          "guaranteedHousing": true,
+          "dormTypes": [
+            "Colleges",
+            "Halls of Residence",
+            "Graduate Accommodation"
+          ]
+        },
+        "facilities": [
+          "Bodleian Libraries",
+          "Ashmolean Museum",
+          "Oxford University Press",
+          "Research Laboratories",
+          "Sports Complex"
+        ]
+      },
+      "studentLife": {
+        "clubs": 400,
+        "sports": {
+          "varsity": 80,
+          "club": 100,
+          "intramural": 50
+        },
+        "greekLife": {
+          "fraternities": 0,
+          "sororities": 0,
+          "percentage": 0
+        },
+        "diversity": {
+          "international": 45,
+          "domesticMinority": 25,
+          "firstGeneration": 15
+        }
+      },
+      "rankings": {
+        "timesHigher": 1,
+        "qsWorld": 4,
+        "usNews": 5,
+        "forbes": 8
+      },
+      "images": {
+        "campus": "https://cdn.britannica.com/03/117103-050-F4C2FC83/view-University-of-Oxford-England-Oxfordshire.jpg",
+        "logo": "https://oxfordvisit.com/wp-content/uploads/2022/05/oxford-university-logo_quad.jpg",
+        "gallery": [
+          "https://placehold.co/400x300",
+          "https://placehold.co/400x300",
+          "https://placehold.co/400x300"
+        ]
+      },
+      "contact": {
+        "website": "https://www.ox.ac.uk",
+        "phone": "+44 1865 270000",
+        "email": "undergraduate.admissions@ox.ac.uk",
+        "address": "University Offices, Wellington Square, Oxford OX1 2JD"
+      },
+      "socialMedia": {
+        "twitter": "https://twitter.com/UniofOxford",
+        "facebook": "https://facebook.com/the.university.of.oxford",
+        "instagram": "https://instagram.com/oxford_uni",
+        "linkedin": "https://linkedin.com/school/university-of-oxford"
+      }
+    },
+    {
+      "id": "tokyo",
+      "name": "University of Tokyo",
+      "location": {
+        "city": "Tokyo",
+        "state": "Tokyo",
+        "country": "Japan",
+        "coordinates": {
+          "latitude": 35.7127,
+          "longitude": 139.7620
+        }
+      },
+      "stats": {
+        "acceptanceRate": 20.8,
+        "enrollment": {
+          "total": 28102,
+          "undergraduate": 14117,
+          "graduate": 13985
+        },
+        "studentFacultyRatio": 6,
+        "graduationRate": 95,
+        "retentionRate": 98
+      },
+      "academics": {
+        "popularMajors": [
+          "Engineering",
+          "Medicine",
+          "Law",
+          "Economics",
+          "Science"
+        ],
+        "departments": [
+          "College of Arts and Sciences",
+          "Faculty of Engineering",
+          "Faculty of Medicine",
+          "Faculty of Law",
+          "Faculty of Economics"
+        ],
+        "researchCenters": [
+          "Kavli Institute for Physics and Mathematics",
+          "Institute of Medical Science",
+          "Institute of Industrial Science"
+        ],
+        "libraryCollections": 9.1
+      },
+      "admissions": {
+        "sat": {
+          "middle50": {
+            "math": [750, 800],
+            "evidenceBasedReading": [700, 800],
+            "total": [1450, 1600]
+          },
+          "average": 1525
+        },
+        "act": {
+          "middle50": [33, 36],
+          "average": 34
+        },
+        "gpa": {
+          "average": 3.9,
+          "weighted": 4.2
+        },
+        "applicationDeadlines": {
+          "undergraduate": "January 4",
+          "graduate": "Varies by program"
+        },
+        "requirements": [
+          "Application Form",
+          "Academic Transcripts",
+          "Standardized Test Scores",
+          "Letters of Recommendation",
+          "Japanese Language Proficiency (N1)"
+        ]
+      },
+      "costs": {
+        "tuition": {
+          "japanese": 535800,
+          "international": 535800,
+          "graduate": 535800
+        },
+        "roomAndBoard": 1200000,
+        "booksAndSupplies": 100000,
+        "personalExpenses": 800000,
+        "total": {
+          "japanese": 2635800,
+          "international": 2635800,
+          "graduate": 2635800
+        },
+        "financialAid": {
+          "averageAid": 1000000,
+          "studentsReceivingAid": 30,
+          "meritScholarships": true
+        }
+      },
+      "campus": {
+        "size": 310,
+        "setting": "urban",
+        "housing": {
+          "onCampus": true,
+          "guaranteedHousing": false,
+          "dormTypes": [
+            "International Student Dormitories",
+            "University Housing",
+            "Private Apartments"
+          ]
+        },
+        "facilities": [
+          "University Library",
+          "Research Laboratories",
+          "Sports Center",
+          "International House",
+          "Museums"
+        ]
+      },
+      "studentLife": {
+        "clubs": 300,
+        "sports": {
+          "varsity": 40,
+          "club": 60,
+          "intramural": 30
+        },
+        "greekLife": {
+          "fraternities": 0,
+          "sororities": 0,
+          "percentage": 0
+        },
+        "diversity": {
+          "international": 10,
+          "domesticMinority": 5,
+          "firstGeneration": 20
+        }
+      },
+      "rankings": {
+        "timesHigher": 39,
+        "qsWorld": 23,
+        "usNews": 77,
+        "forbes": 62
+      },
+      "images": {
+        "campus": "https://cdn.britannica.com/52/124752-050-C6AA6622/Yasuda-Auditorium-University-of-Tokyo.jpg",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRARhRjiMsp7-wT5NCmBUsbya8WORpTebdy9Q&s",
+        "gallery": [
+          "https://placehold.co/400x300",
+          "https://placehold.co/400x300",
+          "https://placehold.co/400x300"
+        ]
+      },
+      "contact": {
+        "website": "https://www.u-tokyo.ac.jp",
+        "phone": "+81 3 3812 2111",
+        "email": "info.adm@gs.mail.u-tokyo.ac.jp",
+        "address": "7-3-1 Hongo, Bunkyo-ku, Tokyo 113-8654"
+      },
+      "socialMedia": {
+        "twitter": "https://twitter.com/UTokyo_News_en",
+        "facebook": "https://facebook.com/UTokyo.en",
+        "instagram": "https://instagram.com/utokyo_official",
+        "linkedin": "https://linkedin.com/school/the-university-of-tokyo"
+      }
+    },
+    {
+      "id": "nus",
+      "name": "National University of Singapore",
+      "location": {
+        "city": "Singapore",
+        "state": "Singapore",
+        "country": "Singapore",
+        "coordinates": {
+          "latitude": 1.2966,
+          "longitude": 103.7764
+        }
+      },
+      "stats": {
+        "acceptanceRate": 25.3,
+        "enrollment": {
+          "total": 38000,
+          "undergraduate": 28000,
+          "graduate": 10000
+        },
+        "studentFacultyRatio": 8,
+        "graduationRate": 95,
+        "retentionRate": 98
+      },
+      "academics": {
+        "popularMajors": [
+          "Computer Science",
+          "Business",
+          "Engineering",
+          "Medicine",
+          "Law"
+        ],
+        "departments": [
+          "Faculty of Engineering",
+          "School of Computing",
+          "NUS Business School",
+          "Faculty of Science",
+          "Faculty of Arts and Social Sciences"
+        ],
+        "researchCenters": [
+          "NUS Enterprise",
+          "Institute of Data Science",
+          "NUS Smart Systems Institute"
+        ],
+        "libraryCollections": 2.5
+      },
+      "admissions": {
+        "sat": {
+          "middle50": {
+            "math": [700, 800],
+            "evidenceBasedReading": [650, 750],
+            "total": [1350, 1550]
+          },
+          "average": 1450
+        },
+        "act": {
+          "middle50": [30, 35],
+          "average": 32
+        },
+        "gpa": {
+          "average": 3.8,
+          "weighted": 4.1
+        },
+        "applicationDeadlines": {
+          "undergraduate": "February 28",
+          "graduate": "Varies by program"
+        },
+        "requirements": [
+          "Application Form",
+          "Academic Transcripts",
+          "Standardized Test Scores",
+          "Letters of Recommendation",
+          "English Language Proficiency"
+        ]
+      },
+      "costs": {
+        "tuition": {
+          "singaporean": 8250,
+          "international": 38050,
+          "graduate": 35000
+        },
+        "roomAndBoard": 8000,
+        "booksAndSupplies": 1000,
+        "personalExpenses": 6000,
+        "total": {
+          "singaporean": 23250,
+          "international": 53050,
+          "graduate": 50000
+        },
+        "financialAid": {
+          "averageAid": 20000,
+          "studentsReceivingAid": 40,
+          "meritScholarships": true
+        }
+      },
+      "campus": {
+        "size": 150,
+        "setting": "urban",
+        "housing": {
+          "onCampus": true,
+          "guaranteedHousing": true,
+          "dormTypes": [
+            "Residential Colleges",
+            "Student Residences",
+            "Graduate Housing"
+          ]
+        },
+        "facilities": [
+          "University Town",
+          "Sports Complex",
+          "Research Centers",
+          "Libraries",
+          "Innovation Hub"
+        ]
+      },
+      "studentLife": {
+        "clubs": 200,
+        "sports": {
+          "varsity": 25,
+          "club": 35,
+          "intramural": 20
+        },
+        "greekLife": {
+          "fraternities": 0,
+          "sororities": 0,
+          "percentage": 0
+        },
+        "diversity": {
+          "international": 35,
+          "domesticMinority": 40,
+          "firstGeneration": 15
+        }
+      },
+      "rankings": {
+        "timesHigher": 19,
+        "qsWorld": 8,
+        "usNews": 26,
+        "forbes": 35
+      },
+      "images": {
+        "campus": "https://gov-web.s3.ap-northeast-1.amazonaws.com/uploads/2018/04/NUS-ERC.jpg",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/b/b9/NUS_coat_of_arms.svg",
+        "gallery": [
+          "https://placehold.co/400x300",
+          "https://placehold.co/400x300",
+          "https://placehold.co/400x300"
+        ]
+      },
+      "contact": {
+        "website": "https://www.nus.edu.sg",
+        "phone": "+65 6516 6666",
+        "email": "admissions@nus.edu.sg",
+        "address": "21 Lower Kent Ridge Road, Singapore 119077"
+      },
+      "socialMedia": {
+        "twitter": "https://twitter.com/NUSingapore",
+        "facebook": "https://facebook.com/nus.singapore",
+        "instagram": "https://instagram.com/nus_singapore",
+        "linkedin": "https://linkedin.com/school/national-university-of-singapore"
+      }
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2024-03-20",
+    "totalUniversities": 10,
+    "version": "1.0",
+    "dataSource": "University Official Websites",
+    "fields": {
+      "required": [
+        "id",
+        "name",
+        "location",
+        "stats",
+        "academics",
+        "admissions",
+        "costs"
+      ],
+      "optional": [
+        "campus",
+        "studentLife",
+        "rankings",
+        "images",
+        "contact",
+        "socialMedia"
+      ]
+    }
+  }
+} 
